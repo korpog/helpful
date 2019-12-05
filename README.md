@@ -31,3 +31,20 @@ Run project
 ```
 npm run serve
 ```
+
+# React
+Create project
+```
+npx create-react-app my-app
+```
+
+Run project
+```
+npm start
+```
+
+Deploy to Github Pages
+```
+npm run deploy
+```
+[More about GH Pages](https://github.com/gitname/react-gh-pages)
