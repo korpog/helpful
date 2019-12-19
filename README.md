@@ -64,3 +64,20 @@ Run Django migrations
 ```
 heroku run python manage.py migrate
 ```
+
+# PostgreSQL
+
+List databases
+```
+\l
+```
+
+Connect to database
+```
+\c NAME
+```
+
+List tables
+```
+\dt
+```
