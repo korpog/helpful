@@ -48,3 +48,19 @@ Deploy to Github Pages
 npm run deploy
 ```
 [More about GH Pages](https://github.com/gitname/react-gh-pages)
+
+# Heroku
+Login
+```
+heroku login
+```
+
+Reset database
+```
+heroku pg:reset DATABASE
+```
+
+Run Django migrations
+```
+heroku run python manage.py migrate
+```
