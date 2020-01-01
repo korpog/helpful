@@ -81,3 +81,11 @@ List tables
 ```
 \dt
 ```
+
+# Linux
+
+Set env var permamently
+```
+sudo vim /etc/environment
+VAR="SOMETHING"
+```
