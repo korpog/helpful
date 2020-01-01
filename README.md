@@ -89,3 +89,10 @@ Set env var permamently
 sudo vim /etc/environment
 VAR="SOMETHING"
 ```
+
+# Git
+Set username and password
+```
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
