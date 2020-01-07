@@ -9,7 +9,7 @@ python manage.py test
 ```
 Make empty migration with chosen name
 ```
-python manage.py makemigrations --empty --name NAME
+python manage.py makemigrations --empty APP --name NAME
 ```
 # Celery
 Run worker
