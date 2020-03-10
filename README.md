@@ -1,4 +1,12 @@
 # Django
+Create a project
+```
+django-admin startproject mysite
+```
+Create an app
+```
+python manage.py startapp myapp
+```
 Run server
 ```
 python manage.py runserver
