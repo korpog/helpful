@@ -98,6 +98,12 @@ sudo vim /etc/environment
 VAR="SOMETHING"
 ```
 
+Set alias in ~/.bashrc
+```
+alias python='python3'
+alias pip='pip3'
+```
+
 # Git
 Set username and password
 ```
