@@ -1,7 +1,8 @@
 # Python
 Create a virtual environment with `venv`
 ```
-python3 -m venv <MYVENV>  
+python3 -m venv <MYVENV>
+source MYENV/bin/activate
 ```
 
 # Django
