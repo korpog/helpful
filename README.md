@@ -1,3 +1,9 @@
+# Python
+Create a virtual environment with `venv`
+```
+python3 -m venv <MYVENV>  
+```
+
 # Django
 Create a project
 ```
