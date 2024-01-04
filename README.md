@@ -111,6 +111,11 @@ alias python='python3'
 alias pip='pip3'
 ```
 
+Kill processes associated with port 8000
+```
+sudo fuser -k 8000/tcp
+```
+
 # Git
 Set username and password
 ```
