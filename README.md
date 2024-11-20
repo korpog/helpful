@@ -5,6 +5,22 @@ python3 -m venv <MYVENV>
 source MYENV/bin/activate
 ```
 
+Generate requirements file
+```
+pip freeze > requirements.txt
+```
+
+Install project dependencies
+```
+pip install -r requirements.txt
+```
+
+# Flask
+Run *app_name* name
+```
+flask --app app_name run --debug
+```
+
 # Django
 Create a project
 ```
