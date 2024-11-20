@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 # Flask
-Run *app_name* name
+Run *app_name*
 ```
 flask --app app_name run --debug
 ```
