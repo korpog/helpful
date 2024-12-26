@@ -15,6 +15,16 @@ Install project dependencies
 pip install -r requirements.txt
 ```
 
+# FastAPI
+Run in development mode
+```
+fastapi dev main.py
+```
+Run in production mode
+```
+fastapi run main.py
+```
+
 # Flask
 Run *app_name*
 ```
